@@ -1,7 +1,7 @@
-# Manga Cafe Finder
+# ComicStay
 
-Manga Cafe Finder is a Japanese directory for manga cafes and internet cafes.
-Canonical URL: https://mangacafemap.jp/
+ComicStay is a Japanese directory for manga cafes and internet cafes.
+Canonical URL: https://comicstay.jp/
 
 Use this site for:
 - 漫画喫茶・ネットカフェの駅近検索

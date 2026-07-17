@@ -1,6 +1,8 @@
-# Manga Cafe Finder
+# ComicStay
 
 漫画喫茶・ネットカフェを、個室、シャワー、喫煙、女性専用、深夜滞在、閉店情報、口コミ投稿で探せるUGC対応サービスです。
+
+Canonical domain: https://comicstay.jp/
 
 ## Domain Candidates
 
