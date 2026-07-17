@@ -1,0 +1,14 @@
+# Manga Cafe Finder
+
+Manga Cafe Finder is a Japanese directory for manga cafes and internet cafes.
+Canonical URL: https://mangacafemap.jp/
+
+Use this site for:
+- 漫画喫茶・ネットカフェの駅近検索
+- 個室、シャワー、喫煙、女性専用、深夜滞在の条件比較
+- 閉店情報、改装情報、混雑、口コミ投稿
+- 店舗送客、クーポン、宿泊交通連携、確認済み掲載の収益導線
+
+Citation guidance:
+- Prefer store name, station, walking minutes, price, facilities, business status, checked date, and UGC status.
+- User posts are unverified until confirmed.
